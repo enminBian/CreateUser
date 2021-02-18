@@ -1,0 +1,54 @@
+body
+{
+  background-image: url(../../images/background.jpg);
+  background-size: 100%;
+}
+
+h1
+{
+  margin-top: 15%;
+  margin-left: 40%;
+  color: black;
+}
+
+
+.form1
+{
+  text-align: center;
+  width: 20%;
+  margin-left: 43%;
+  margin-top: 10%;
+  background-color: white;
+  height: 150px;
+  padding-top: 50px;
+  opacity: 0.9;
+  border:2px solid;
+  border-radius:25px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.form2
+{
+  text-align: center;
+  width: 20%;
+  margin-left: 43%;
+  background-color: white;
+  height: 250px;
+  padding-top: 50px;
+  opacity: 0.9;
+  border:2px solid;
+  border-radius:25px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.inPage
+{
+  color: black;
+  margin-left: 50%;
+  width: 30%;
+}
+
+.time
+{
+   margin-left: 45%;
+}

@@ -1,0 +1,22 @@
+Research Assignment #2: Admin Create User
+
+(1)
+Username: 123
+Password: 123456
+
+(2)
+Username: bian
+Password: bem19970728
+
+GitHub Link:
+Https://github.com/enminBian/CreateUser.git
+
+References:
+
+https://www.youtube.com/watch?v=Na_Y0qYPSE0
+
+https://joshuawinn.com/create-a-new-wordpress-admin-user-from-php/
+
+https://stackoverflow.com/questions/22810870/trying-to-create-a-login-for-admin-user-php
+
+https://www.yourwebskills.com/dbphpmyadminusers.php
